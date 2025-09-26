@@ -1,0 +1,5 @@
+pyyaml 
+soundfile 
+tqdm
+keras-tuner
+-e .

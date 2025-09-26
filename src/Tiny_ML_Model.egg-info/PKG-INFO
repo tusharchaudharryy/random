@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: Tiny_ML_Model
+Version: 0.0.1
+Summary: A small python package for an Audio Classification App
+Home-page: https://github.com/AgriSciense/Tiny_ML_Model
+Author: Tushar Chaudhary
+Author-email: tusharchaudhary@agrisciese.com
+Project-URL: Bug Tracker, https://github.com/AgriSciense/Tiny_ML_Model/issues
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: tensorflow
+Dynamic: author
+Dynamic: author-email
+Dynamic: description-content-type
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
